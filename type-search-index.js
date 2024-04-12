@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"model","l":"Dictionary"},{"p":"exception","l":"KeyError"},{"p":"model","l":"MyLinkedList"},{"p":"model","l":"NoneEnum"},{"p":"model","l":"Pair"},{"p":"exception","l":"TypeErrorException"}];updateSearchResults();
